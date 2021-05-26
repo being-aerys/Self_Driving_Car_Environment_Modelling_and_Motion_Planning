@@ -3,7 +3,11 @@ First, we model the environment dynamics of an F1/10 self-driving car using a me
 
 # Simulation
 Following is a demo of the car using the policy generated using CEM to run on the racetrack.
-![Game Process](https://github.com/being-aerys/Self_Driving_Car_Environment_Modelling_and_Motion_Planning/blob/master/car_demo.gif)
+
+
+<p align="left">
+  <img src="https://github.com/being-aerys/Self_Driving_Car_Environment_Modelling_and_Motion_Planning/blob/master/car_demo.gif" alt="animated" />
+</p>
 
 
 This is a collborative work by Aashish Adhikari, Niraj Basnet, and Ashwin Vinoo.
